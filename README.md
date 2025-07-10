@@ -50,8 +50,7 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 - <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
 - <img src="https://img.shields.io/badge/selenium-43B02A?style=plastic&logo=selenium&logoColor=white">
 
-# WBS
-
+### WBS
 | 단계 | 설명 |
 | --- | --- |
 | 🧩 **1. 데이터 수집 및 전처리** | - 차량 등록 수, 인구, 면적 등 공공 데이터 수집                     - 지역별 차량 밀집도 계산 (등록 수 / 면적) |
@@ -60,7 +59,7 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 | 💻 **4. 웹사이트 구현** | - 차트/지도 기반 시각화 (차량 밀집도 등)                             - 필터 기능 (지역, 차종, 연료 등)                                             - 사용자 맞춤형 코멘트 제공 |
 | 📄 **5. 문서화 및 발표 자료 준비** | - README, ERD, WBS 정리                                                    - 시연 및 발표 자료 구성 |
 
-# 요구 사항 명세서
+### 요구 사항 명세서
 
 | 기능 | 설명 |
 | --- | --- |
@@ -70,6 +69,6 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 | 활용 코멘트 | 소비자/기업/지자체용 인사이트 문장 제공 |
 | 페이지 응답 | 사용자의 필터 선택에 따라 실시간 데이터 반영 |
 
-# ERD
+### ERD
 
 <img width="500" height="239" alt="Image" src="https://github.com/user-attachments/assets/a07440b5-0512-4731-b00a-2edc019446d2" />
