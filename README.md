@@ -49,3 +49,27 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 - <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
 - <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
 - <img src="https://img.shields.io/badge/selenium-43B02A?style=plastic&logo=selenium&logoColor=white">
+
+# WBS
+
+| 단계 | 설명 |
+| --- | --- |
+| 🧩 **1. 데이터 수집 및 전처리** | - 차량 등록 수, 인구, 면적 등 공공 데이터 수집                     - 지역별 차량 밀집도 계산 (등록 수 / 면적) |
+| 🗂️ **2. ERD 설계 및 DB 구축** | - 관계형 데이터베이스 설계 (ERD)                                          - 차량 등록, 지역, 인구, 밀집도 등 테이블 생성 |
+| 🤖 **3. 웹 크롤링 (FAQ 수집)** | - Selenium 활용하여 현대, 기아 FAQ 수집                             - 질문·답변 구조화 후 DB에 저장 |
+| 💻 **4. 웹사이트 구현** | - 차트/지도 기반 시각화 (차량 밀집도 등)                             - 필터 기능 (지역, 차종, 연료 등)                                             - 사용자 맞춤형 코멘트 제공 |
+| 📄 **5. 문서화 및 발표 자료 준비** | - README, ERD, WBS 정리                                                    - 시연 및 발표 자료 구성 |
+
+# 요구 사항 명세서
+
+| 기능 | 설명 |
+| --- | --- |
+| 지역 선택 | 시/도 및 구 단위 지역 선택 |
+| 필터 | 연도, 차종, 연료 등 선택 필터 |
+| 시각화 | 차량 수, 차량 밀도(대/km²) 차트/지도 |
+| 활용 코멘트 | 소비자/기업/지자체용 인사이트 문장 제공 |
+| 페이지 응답 | 사용자의 필터 선택에 따라 실시간 데이터 반영 |
+
+# ERD
+
+![image.png](attachment:1bccc2af-5d80-4895-9f26-63f8def6f5ca:image.png)
