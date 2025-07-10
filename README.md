@@ -72,4 +72,4 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 
 # ERD
 
-![image.png](attachment:1bccc2af-5d80-4895-9f26-63f8def6f5ca:image.png)
+<img width="500" height="239" alt="Image" src="https://github.com/user-attachments/assets/a07440b5-0512-4731-b00a-2edc019446d2" />
