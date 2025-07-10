@@ -42,5 +42,10 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 - 행정구 단위 비교 및 의사 결정 도우미 기능
 
 ### 기술 스택
-
-
+- <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
+- <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white">
+- <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
+- <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
+- <img src="https://img.shields.io/badge/selenium-43B02A?style=plastic&logo=selenium&logoColor=white">
