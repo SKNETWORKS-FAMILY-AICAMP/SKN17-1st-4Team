@@ -98,17 +98,8 @@ tabs_2()
 
 #print(data)
 df = pd.DataFrame(data)
-
-df = pd.DataFrame(data)
 print("전체 수집 개수:", len(df))
 
-# 질문만 중복 제거
-df_question_unique = df.drop_duplicates(subset=["질문"])
-print("질문 기준 중복 제거:", len(df_question_unique))
-
-# 질문+답변 모두 중복 제거
-df_full_unique = df.drop_duplicates(subset=["질문", "답변"])
-print("질문+답변 기준 중복 제거:", len(df_full_unique))
 df.to_csv('kia_faq.csv', index=False, encoding='utf-8-sig')
 print('@@@CSV 저장 완료!@@@')
 driver.quit()
