@@ -117,12 +117,12 @@ https://www.kia.com/kr/customer-service/center/faq
 
 ### 수행결과 및 시연페이지
 
-**차량등록수, 인구수 수집 데이터**
+**차량등록수, 인구수 수집 데이터, MySQL 연동**
 
 
-<img width="1355" height="542" alt="image" src="https://github.com/user-attachments/assets/89b3bb5a-b9f3-4247-ae91-fb1949b33e64" />
-<img width="757" height="544" alt="image" src="https://github.com/user-attachments/assets/e4a277c2-c38e-4144-868a-f1ded2740edc" />
-<img width="976" height="657" alt="image" src="https://github.com/user-attachments/assets/9783b17f-1b1d-42c0-a55d-f209b7728dbd" />
+<img src="https://github.com/user-attachments/assets/89b3bb5a-b9f3-4247-ae91-fb1949b33e64" width="600" /> <br>
+<img src="https://github.com/user-attachments/assets/e4a277c2-c38e-4144-868a-f1ded2740edc" width="600" /> <br>
+<img src="https://github.com/user-attachments/assets/9783b17f-1b1d-42c0-a55d-f209b7728dbd" width="600" />
 
 
 **지도 → 지역별 차량 밀집도**
