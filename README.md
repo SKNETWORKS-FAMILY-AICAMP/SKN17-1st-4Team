@@ -32,11 +32,25 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 ### 📌 프로젝트 필요성 (배경)
 
 - 차량 수가 증가함에 따라 **주차, 교통 혼잡, 충전소 부족** 등 도시 문제가 심화되고 있음
-<img width="800" height="89" alt="Image" src="https://github.com/user-attachments/assets/23d78fdf-c3d1-4d26-8d5e-f3ab83dc43b2" /> 
+  
+<img width="500" height="55" alt="Image" src="https://github.com/user-attachments/assets/23d78fdf-c3d1-4d26-8d5e-f3ab83dc43b2" /> 
 
-<img width="800" height="332" alt="Image" src="https://github.com/user-attachments/assets/dfd5f351-cc7c-48cf-a74e-bd81009da082" />
+<img width="500" height="208" alt="Image" src="https://github.com/user-attachments/assets/dfd5f351-cc7c-48cf-a74e-bd81009da082" />
 
-<img width="800" height="444" alt="Image" src="https://github.com/user-attachments/assets/b60b4d04-292f-44ad-9ea5-a8c64e4ed2c3" />
+<img width="550" height="305" alt="Image" src="https://github.com/user-attachments/assets/b60b4d04-292f-44ad-9ea5-a8c64e4ed2c3" />
+
+
+<img width="300" height="115" alt="image" src="https://github.com/user-attachments/assets/e2c17f8d-f35e-480b-b78e-6e556ccbd23a" />
+
+
+<img width="300" height="176" alt="image" src="https://github.com/user-attachments/assets/2119fa14-c58a-44fd-bfc8-bc5ab723be29" />
+
+<img width="500" height="199" alt="image" src="https://github.com/user-attachments/assets/c8b3526d-ead8-4e7d-baec-91799f85f825" />
+
+<img width="500" height="247" alt="image" src="https://github.com/user-attachments/assets/cb86268f-2d5c-46d1-8e01-ae7279bdfbb6" />
+
+
+
 
 - 등록 차량 데이터는 공개되어 있으나, **직관적인 분석과 시각화 도구 부족**
 - 이를 해결하기 위해, **누구나 쉽게 차량 분포를 조회**하고 **필요한 인프라나 정책 수립에 도움을 주는 플랫폼**이 필요함
