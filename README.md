@@ -76,16 +76,16 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 
 ### 데이터 출처
 
-- 자동차 등록 현황 데이터 출처
+- 자동차 등록 현황 데이터 출처 : 
 https://stat.molit.go.kr/portal/cate/statMetaView.do?hRsId=58
 
-- 지역별 인구수 조사
+- 지역별 인구수 조사 : 
 https://jumin.mois.go.kr/ageStatMonth.do#none
 
-- 현대 FAQ
+- 현대 FAQ : 
 https://www.hyundai.com/kr/ko/e/customer/center/faq
 
-- 기아 FAQ
+- 기아 FAQ : 
 https://www.kia.com/kr/customer-service/center/faq
 
 ### WBS
