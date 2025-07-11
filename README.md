@@ -12,7 +12,7 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 |:-----------:|:---------------:|
 | 양정민      | Streamlit 코드 작성, 발표           | 
 | 조해리      | 기업별 FAQ 크롤링 및 처리, Readme 작성, Streamlit 코드 작성|
-| 김준협      | python을 이용한 excel 데이터 가공  |
+| 김준협      | python을 이용한 excel 데이터 mysql에 저장  |
 | 이재은      | ERD설계, 현대 FAQ 크롤링, Readme 작성|
 ---
 ## 지역별 차량 밀집도 기반 플랫폼 및 기업별 FAQ 조회 시스템
