@@ -8,12 +8,14 @@
 ### ✅ 팀 명
 SKN17-1st-4Team : 🔗 연결담 🔗
 ### 🧑‍💻 팀 멤버
-| 이름    | 역할        | 
-|:-----------:|:---------------:|
-| 양정민      | Streamlit 코드 작성, 발표           | 
-| 조해리      | 기업별 FAQ 크롤링 및 처리, Readme 작성, Streamlit 코드 작성|
-| 김준협      | python을 이용한 excel 데이터 mysql에 저장  |
-| 이재은      | ERD설계, 현대 FAQ 크롤링, Readme 작성|
+
+| 이름    | 역할                                                    | GitHub 링크                           |
+|:-------:|:-------------------------------------------------------:|:-------------------------------------:|
+| 양정민  | Streamlit 코드 작성, 발표                                | [github.com/Yangmin3](https://github.com/Yangmin3) |
+| 조해리  | 기업별 FAQ 크롤링 및 처리, Readme 작성, Streamlit 코드 작성 | [github.com/Haer111](https://github.com/Haer111)   |
+| 김준협  | Python을 이용한 Excel 데이터 MySQL에 저장               | [github.com/use08168](https://github.com/use08168) |
+| 이재은  | ERD 설계, 현대 FAQ 크롤링, Readme 작성                  | [github.com/JAEEUN0129](https://github.com/JAEEUN0129) |
+
 ---
 ## 지역별 차량 밀집도 기반 플랫폼 및 기업별 FAQ 조회 시스템
 ### 🗓️ 프로젝트 기간
