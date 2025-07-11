@@ -10,8 +10,8 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 ### 🧑‍💻 팀 멤버
 | 이름    | 역할        | 
 |:-----------:|:---------------:|
-| 양정민      | Streamlit 코드 작성           | 
-| 조해리      | 기업별 FAQ 크롤링 및 처리, Readme 작성|
+| 양정민      | Streamlit 코드 작성, 발표           | 
+| 조해리      | 기업별 FAQ 크롤링 및 처리, Readme 작성, Streamlit 코드 작성|
 | 김준협      | python을 이용한 excel 데이터 가공  |
 | 이재은      | ERD설계, 현대 FAQ 크롤링, Readme 작성|
 ---
