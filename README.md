@@ -123,20 +123,28 @@ https://www.kia.com/kr/customer-service/center/faq
 <img width="865" height="820" alt="image" src="https://github.com/user-attachments/assets/dfdb11ed-706f-4776-8cca-9612225dd7dc" />
 
 **도시별 차량,인구,밀집도 데이터**
+
+
 <img width="767" height="485" alt="image" src="https://github.com/user-attachments/assets/8508b299-de45-45e2-806d-ac164f3ad88e" />
 
 **월별 전국 차량 밀집도 변화 그래프**
 
+
 <img width="783" height="640" alt="image" src="https://github.com/user-attachments/assets/201d9a31-d5c6-4e82-b67c-3293468a6081" />
 
 **월별 TOP 5 밀집도 변화 그래프**
+
+
 <img width="794" height="672" alt="image" src="https://github.com/user-attachments/assets/427b2ad0-143e-4ca1-9b50-be9fcac62a2b" />
 
 **기업별 FAQ 조회**
 
+
 <img width="803" height="684" alt="image" src="https://github.com/user-attachments/assets/c3377b1b-1daa-44c6-b9f1-7bea66ace410" />
 
 **키워드 검색**
+
+
 <img width="802" height="493" alt="image" src="https://github.com/user-attachments/assets/c0dca484-e538-45e6-87a5-7c00c82a2e71" />
 <img width="779" height="422" alt="image" src="https://github.com/user-attachments/assets/94dad1f4-5330-471c-8f69-6d092e6353cf" />
 
