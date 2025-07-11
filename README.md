@@ -74,6 +74,20 @@ SKN17-1st-4Team : 🔗 연결담 🔗
 - <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
 - <img src="https://img.shields.io/badge/selenium-43B02A?style=plastic&logo=selenium&logoColor=white">
 
+### 데이터 출처
+
+- 자동차 등록 현황 데이터 출처
+https://stat.molit.go.kr/portal/cate/statMetaView.do?hRsId=58
+
+- 지역별 인구수 조사
+https://jumin.mois.go.kr/ageStatMonth.do#none
+
+- 현대 FAQ
+https://www.hyundai.com/kr/ko/e/customer/center/faq
+
+- 기아 FAQ
+https://www.kia.com/kr/customer-service/center/faq
+
 ### WBS
 | 단계 | 설명 | 일정 |
 | --- | --- | --- |
@@ -110,7 +124,7 @@ SKN17-1st-4Team : 🔗 연결담 🔗
   
 - 조해리 : 기업별 faq의 경우 더 다양한 기업의 faq를 가져올 수 있었으면 더 좋았을 것 같다. 주제 구체화에 많은 시간이 소모되어 자료 수집을 비교적 많이 하지 못한 것이 매우 아쉬웠다. 그리고 streamlit 코드 작성을 하다보니 반복적으로 들어가는 부분이 많아졌는데, 코드를 다시 살펴보고 정리하지 않은 것 또한 아쉬운 부분이다.
 
-- 김준협 :
-
+- 김준협 : 이번 프로젝트를 진행하면서 데이터 추출부터 MySQL에 저장하는 전 과정을 직접 경험해볼 수 있었습니다. 특히 데이터를 효율적으로 저장하고 관리하기 위해 ERD를 먼저 설계하는 과정이 얼마나 중요한지 다시 한 번 느꼈습니다.
+처음에는 단순히 표를 옮기는 수준으로 생각했지만, 실제로 데이터를 저장하다 보니 테이블 간의 관계 설정과 중복을 줄이기 위한 정규화의 필요성을 절실히 깨달았습니다.
 
 - 이재은 : ERD 설계 과정에서 여러 차례 시행착오를 겪으며 데이터 모델링 방법을 명확히 이해하게 되었다. 현대 FAQ 크롤링을 진행하면서 텍스트가 제대로 추출되지 않는 문제를 경험했지만, 이를 해결하며 문제 해결 능력이 크게 향상되었다. 이런 과정을 통해 예기치 않은 오류들을 직접 다뤄보면서 기술적 성장과 실전 감각을 키울 수 있었다.
